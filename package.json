@@ -1,0 +1,24 @@
+{
+  "name": "rapid",
+  "version": "1.0.0",
+  "description": "typescript utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavour-yang/rapid.git"
+  },
+  "keywords": [
+    "typescript",
+    "rapid",
+    "utils"
+  ],
+  "author": "Aemon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavour-yang/rapid/issues"
+  },
+  "homepage": "https://github.com/flavour-yang/rapid#readme"
+}
