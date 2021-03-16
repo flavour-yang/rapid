@@ -1,2 +1,2 @@
 # rapid
-typescript
+typescript utils
