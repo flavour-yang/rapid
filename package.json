@@ -1,15 +1,12 @@
 {
-  "name": "rapid",
-  "version": "1.0.0",
+  "name": "rapid-ts",
+  "version": "1.0.1",
   "description": "typescript utils",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/flavour-yang/rapid.git"
-  },
+  "repository": "git+https://github.com/flavour-yang/rapid.git",
   "keywords": [
     "typescript",
     "rapid",
@@ -20,5 +17,23 @@
   "bugs": {
     "url": "https://github.com/flavour-yang/rapid/issues"
   },
-  "homepage": "https://github.com/flavour-yang/rapid#readme"
+  "homepage": "https://github.com/flavour-yang/rapid#readme",
+  "devDependencies": {
+    "@babel/types": "^7.13.0",
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-json": "^4.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.0",
+    "@rollup/plugin-replace": "^2.3.4",
+    "@types/jest": "^26.0.16",
+    "@types/node": "^14.10.1",
+    "eslint": "^7.22.0",
+    "jest": "^26.6.3",
+    "rollup": "^2.41.3",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.30.0",
+    "ts-jest": "^26.5.3",
+    "typescript": "^4.2.3"
+  }
 }
