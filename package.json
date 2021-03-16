@@ -1,6 +1,6 @@
 {
   "name": "rapid-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "typescript utils",
   "main": "index.js",
   "scripts": {
