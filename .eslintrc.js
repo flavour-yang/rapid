@@ -25,5 +25,6 @@ module.exports = {
     'no-unneeded-ternary': 0,
     'no-shadow': 0,
     '@typescript-eslint/no-unused-vars': ['error'],
+    '@typescript-eslint/no-explicit-any': 0,
   },
 };
